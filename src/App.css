@@ -1,0 +1,17 @@
+@import url('./assets/css/FormControls.css');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  /* max-width: 1280px; */
+  margin: 0 auto;
+  padding: 1rem 2rem;
+  text-align: center;
+}
+
+h2{
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
